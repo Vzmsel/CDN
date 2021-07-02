@@ -121,26 +121,26 @@ a:hover {
 /* 各区块 */
 
 .Box1 {
-    background: url(../images/bg1.png) no-repeat center center;
+    background: url(../img/bg1.png) no-repeat center center;
 }
 
 .Box2 {
-    background: url(../images/bg2.png) no-repeat center center;
+    background: url(../img/bg2.png) no-repeat center center;
     margin-top: -400px;
 }
 
 .Box3 {
-    background: url(../images/bg3.png) no-repeat center center;
+    background: url(../img/bg3.png) no-repeat center center;
     margin-top: -10px;
 }
 
 .Box4 {
-    background: url(../images/bg4.png) no-repeat center center;
+    background: url(../img/bg4.png) no-repeat center center;
     margin-top: -10px;
 }
 
 .Box5 {
-    background: url(../images/bg5.png) no-repeat center center;
+    background: url(../img/bg5.png) no-repeat center center;
 }
 
 .CraftBox {
